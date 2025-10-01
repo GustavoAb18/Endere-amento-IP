@@ -4,9 +4,6 @@
 Trabalho 01 - Desenvolvimento de Software de Rede
 Este script realiza a análise de redes com base em um IP de origem fixo,
 um IP de destino e uma máscara de rede fornecidos pelo usuário.
-
-Autores: Gustavo Andrade Abilio
-Data: 12/09/2025
 """
 
 # --- 1. IP Fixo ---
@@ -139,4 +136,5 @@ def main():
 # Ponto de entrada do script
 if __name__ == "__main__":
     main()
+
 
