@@ -13,9 +13,12 @@ O projeto foi implementado em duas versões: um script de linha de comando e uma
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores/as
 
-* **Gustavo Andrade Abilio**
+* **Gustavo Andrade Abilio- 2524290022**
+* **Lucas Tomaz Braga - 2514290003**
+* **Letícia Gomes Rodrigues - 2514290010**
+* **?? - ??**
 
 ---
 
@@ -119,3 +122,4 @@ Esta versão implementa a funcionalidade extra de rodar como uma página web.
 |   |-- index.html          \# Página inicial com o formulário
 |   |-- resultado.html      \# Página que exibe os resultados da análise
 ```
+
